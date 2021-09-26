@@ -4,7 +4,7 @@ DateForce
 
 python3 -m pip install requests bs4
 python3 -m pip install mechanize
-git clone https://github.com/HiddenAnonymous/DateForce.git
+git clone https://github.com/HiddenAnonymous/DateForce
 
 //Usage:
 
